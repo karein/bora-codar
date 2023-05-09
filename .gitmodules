@@ -1,9 +1,3 @@
-[submodule "igNews"]
-	path = igNews
-	url = https://github.com/karein/igNews.git
-[submodule "DTMoney"]
-	path = DTMoney
-	url = https://github.com/karein/DTMoney.git
 [submodule "layout-site-blocos-carnaval"]
 	path = layout-site-blocos-carnaval
 	url = https://github.com/karein/layout-site-blocos-carnaval.git

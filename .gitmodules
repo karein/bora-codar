@@ -1,0 +1,21 @@
+[submodule "igNews"]
+	path = igNews
+	url = https://github.com/karein/igNews.git
+[submodule "DTMoney"]
+	path = DTMoney
+	url = https://github.com/karein/DTMoney.git
+[submodule "layout-site-blocos-carnaval"]
+	path = layout-site-blocos-carnaval
+	url = https://github.com/karein/layout-site-blocos-carnaval.git
+[submodule "desafio-ui-music-player"]
+	path = desafio-ui-music-player
+	url = https://github.com/karein/desafio-ui-music-player.git
+[submodule "chat-screen"]
+	path = chat-screen
+	url = https://github.com/karein/chat-screen.git
+[submodule "card-produto-sofa"]
+	path = card-produto-sofa
+	url = https://github.com/karein/card-produto-sofa.git
+[submodule "calculator-layout-challenge"]
+	path = calculator-layout-challenge
+	url = https://github.com/karein/calculator-layout-challenge.git

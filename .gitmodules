@@ -13,3 +13,6 @@
 [submodule "calculator-layout-challenge"]
 	path = calculator-layout-challenge
 	url = https://github.com/karein/calculator-layout-challenge.git
+[submodule "widget-transporte"]
+	path = widget-transporte
+	url = https://github.com/karein/widget-transporte.git
